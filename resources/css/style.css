@@ -113,4 +113,35 @@ main {
 }
 /* Store */
 
+/* Locations */
+
+#locations {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 1200px;
+  height: 550px;
+  background-image: url(./images/img-locations-background.jpg);
+}
+
+#locations h2 {
+  margin-bottom: 15px;
+  padding-bottom: 0px;
+}
+
+.location-container {
+  display: flex;
+  justify-content: center;
+}
+
+.location {
+  display: inline-block;
+  width: 300px;
+  height: 250px;
+  margin: 0px 20px;
+  background-color: black;
+  text-align: center;
+}
+/* Locations */
+
 /* Main Content */
