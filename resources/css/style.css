@@ -145,3 +145,14 @@ main {
 /* Locations */
 
 /* Main Content */
+
+/* Footer */
+
+footer {
+  height: 200px;
+}
+
+#copyright {
+  text-align: left;
+}
+/* Footer */
